@@ -1,6 +1,6 @@
 # Hi, this is Anh 👋
 
- **PhD | Energy Technology | Low-carbon Transitions**
+ **PhD Candidate | Energy Technology | Low-carbon Transitions**
 
 ---
 
