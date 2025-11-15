@@ -1,6 +1,6 @@
-# Hi, I'm Nhu Anh Phan 👋
+# Hi, this is Anh 👋
 
-🌱 **Doctoral Student | Energy Technology | Sustainable Transitions**
+ **PhD | Energy Technology | Low-carbon Transitions**
 
 ---
 
@@ -22,7 +22,7 @@ My work combines both **techno-economic assessments** and **socio-political pers
 
 - Energy systems modeling
 - Techno-economic analysis
-- Stakeholder analysis
+- Stakeholder engagement and analysis
 - Qualitative and quantitative data analysis
 - Scientific communication
 
